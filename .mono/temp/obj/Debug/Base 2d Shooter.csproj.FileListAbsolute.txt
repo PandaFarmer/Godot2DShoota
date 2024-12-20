@@ -1,0 +1,9 @@
+C:\Users\NoSpacesForWSL\OneDrive\Documents\GODOTProjs\Base2DShooter\.mono\temp\obj\Debug\Base 2d Shooter.csproj.AssemblyReference.cache
+C:\Users\NoSpacesForWSL\OneDrive\Documents\GODOTProjs\Base2DShooter\.mono\temp\obj\Debug\Base 2d Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoSpacesForWSL\OneDrive\Documents\GODOTProjs\Base2DShooter\.mono\temp\obj\Debug\Base 2d Shooter.AssemblyInfoInputs.cache
+C:\Users\NoSpacesForWSL\OneDrive\Documents\GODOTProjs\Base2DShooter\.mono\temp\obj\Debug\Base 2d Shooter.AssemblyInfo.cs
+C:\Users\NoSpacesForWSL\OneDrive\Documents\GODOTProjs\Base2DShooter\.mono\temp\obj\Debug\Base 2d Shooter.csproj.CoreCompileInputs.cache
+C:\Users\NoSpacesForWSL\OneDrive\Documents\GODOTProjs\Base2DShooter\.mono\temp\bin\Debug\Base 2d Shooter.dll
+C:\Users\NoSpacesForWSL\OneDrive\Documents\GODOTProjs\Base2DShooter\.mono\temp\bin\Debug\Base 2d Shooter.pdb
+C:\Users\NoSpacesForWSL\OneDrive\Documents\GODOTProjs\Base2DShooter\.mono\temp\obj\Debug\Base 2d Shooter.dll
+C:\Users\NoSpacesForWSL\OneDrive\Documents\GODOTProjs\Base2DShooter\.mono\temp\obj\Debug\Base 2d Shooter.pdb

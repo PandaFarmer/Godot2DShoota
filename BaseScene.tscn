@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://BackgroundLoader.gd" type="Script" id=1]
+[ext_resource path="res://Scripts/ExplorerController.cs" type="Script" id=2]
+[ext_resource path="res://Scripts/ProjectileSpawner.cs" type="Script" id=3]
+
+[sub_resource type="ImageTexture" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="TextureRect" type="TextureRect" parent="ParallaxBackground"]
+margin_right = 1021.0
+margin_bottom = 608.0
+texture = SubResource( 1 )
+expand = true
+script = ExtResource( 1 )
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 400, 400 )
+scale = Vector2( 0.2, 0.2 )
+script = ExtResource( 2 )
+
+[node name="ProjectileSpawner" type="Node" parent="Sprite"]
+script = ExtResource( 3 )
